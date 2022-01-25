@@ -1,0 +1,7 @@
+//------------------
+//  hogehoge
+//------------------
+module hogehoge(
+);
+endmodule
+
